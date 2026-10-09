@@ -1,0 +1,5 @@
+.env
+*.env
+secrets.h
+node_modules/
+.vscode/
