@@ -1,0 +1,3 @@
+web/config.js
+*.env
+credentials.txt
